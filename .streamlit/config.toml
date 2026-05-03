@@ -1,0 +1,18 @@
+[theme]
+# Ember Red for metrics and buttons
+primaryColor = "#FF3366"
+
+# Deep, true black/grey background
+backgroundColor = "#0B0C10"
+
+# Elevated dark grey for Bento Boxes
+secondaryBackgroundColor = "#1F2833"
+
+# Crisp off-white text
+textColor = "#F3F4F6"
+
+# Native sans-serif for optimal readability
+font = "sans serif"
+
+
+
