@@ -35,5 +35,5 @@ To establish a robust predictive pipeline, two distinct machine learning archite
 
 1. **Clone the repository:**
 ```bash
-   git clone [https://github.com/Namenotvisible/fitness-progress-prediction.git](https://github.com/Namenotvisible/fitness-progress-prediction.git)
-   cd fitness-progress-prediction
+  git clone https://github.com/Namenotvisible/Fitness-Progress-Prediction.git
+cd Fitness-Progress-Prediction
